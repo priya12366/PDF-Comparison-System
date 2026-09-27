@@ -1,0 +1,25 @@
+# Virtual Environment
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Runtime/temporary files
+.runtime/
+
+# Output Files
+output/
+final_outputs/
+
+# Extracted JSON
+data/extracted/
+
+# OS Files
+.DS_Store
+Thumbs.db
+node_modules/
+frontend/dist/
